@@ -1,0 +1,64 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(2, 2, 73);
+    display: flex;
+    margin-top: -1%;
+    border:1px solid ;
+    width: 1550px;
+    height:40px
+}
+.header button{
+   margin-left: 6%;
+   margin-top: 1%;
+   background-color: rgb(2, 2, 73);
+   color: white;
+}
+.icon{
+    border: 1px solid;
+    width: 200px;
+    height: 800px;
+    position: fixed;
+    background-color: rgb(243, 239, 239);
+}
+.icon ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.iconabout ul{
+    position: absolute;
+    list-style-type: none;
+
+
+}
+button{
+   
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 18px;
+}
+.d-none{
+    display: none;
+}
+.wrapper{
+    display: flex;
+    padding-left: 11rem;
+    padding-right: 11rem;
+    padding-top:0rem;
+    padding-bottom: 0rem;
+    
+   
+   
+}
+
+  
